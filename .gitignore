@@ -1,0 +1,27 @@
+.idea/
+
+# Keil user-specific files
+*.uvguix.*
+*.uvoptx
+
+# Build outputs
+*.o
+*.d
+*.axf
+*.map
+*.hex
+*.lnp
+*.dep
+*.crf
+*.lst
+*.lib
+*.tmp
+*.bak
+
+# Generated logs and reports
+*.htm
+*.html
+
+# Keil output directories
+MDK-ARM/*/Listings/
+MDK-ARM/*/Objects/
